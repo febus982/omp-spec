@@ -1,0 +1,27 @@
+{
+  "name": "omp-spec",
+  "owner": {
+    "name": "febus982"
+  },
+  "metadata": {
+    "description": "Spec-driven feature development workflows for Oh My Pi",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "feature-development",
+      "description": "Orchestrate feature work from brainstorming through OpenSpec planning, OMP implementation, verification, and archival.",
+      "version": "1.0.0",
+      "source": "./feature-development",
+      "category": "development",
+      "keywords": [
+        "openspec",
+        "planning",
+        "orchestration",
+        "feature-development"
+      ],
+      "repository": "https://github.com/febus982/omp-spec"
+    }
+  ]
+}
