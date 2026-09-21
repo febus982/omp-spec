@@ -17,3 +17,7 @@ Requirements:
 The skill drives the OpenSpec CLI directly and does not require a particular generated OpenSpec workflow profile. The default core profile is sufficient; core plus `verify` is recommended for convenient manual commands.
 
 See the marketplace repository README for installation, configuration, usage, upgrades, and local development.
+
+## License
+
+MIT. See `LICENSE` in this plugin package.

@@ -5,14 +5,14 @@
   },
   "metadata": {
     "description": "Spec-driven feature development workflows for Oh My Pi",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "pluginRoot": "./plugins"
   },
   "plugins": [
     {
       "name": "feature-development",
       "description": "Orchestrate feature work from brainstorming through OpenSpec planning, OMP implementation, verification, and archival.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "source": "./feature-development",
       "category": "development",
       "keywords": [
@@ -21,6 +21,7 @@
         "orchestration",
         "feature-development"
       ],
+      "license": "MIT",
       "repository": "https://github.com/febus982/omp-spec"
     }
   ]

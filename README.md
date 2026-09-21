@@ -217,4 +217,8 @@ Use semantic versioning:
 - minor: backward-compatible workflow behavior or new optional capability;
 - major: changed approval gates, prerequisites, artifact semantics, or planner contract.
 
-This repository does not currently declare an open-source license. Add one before encouraging unrestricted redistribution or modification.
+## License
+
+MIT. You may use, copy, modify, merge, publish, distribute, sublicense, and sell the software, provided the copyright and license notice remain with copies or substantial portions.
+
+The software is provided “as is,” without warranty. The authors and copyright holders are not liable for claims or damages arising from its use. See [`LICENSE`](LICENSE) for the complete terms.

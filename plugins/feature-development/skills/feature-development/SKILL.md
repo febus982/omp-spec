@@ -3,7 +3,7 @@ name: feature-development
 description: Orchestrate feature work from natural-language brainstorming through approved design, OpenSpec artifacts, OMP planning and implementation, verification, and archival without manual phase commands.
 compatibility: Requires Oh My Pi with task agents and the OpenSpec CLI.
 metadata:
-  version: "1.0.0"
+  version: "1.0.1"
 ---
 
 # Feature Development

@@ -78,7 +78,7 @@ Increment the plugin version for every published behavior or content change that
 
 Update `metadata.version` when the catalog itself changes. Create Git tags matching releases after verification.
 
-Do not add a license or change licensing terms without an explicit maintainer decision.
+This repository and the packaged plugin are licensed under MIT. Preserve the copyright and permission notice in copies or substantial portions. Do not change licensing terms without an explicit maintainer decision.
 
 ## Verification
 
